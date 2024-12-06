@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/isaacchavez/mlops_course/end-to-end-ds/datascience-project/mlruns/0/1bee25455626498ea6de6660bcde821e/artifacts
+end_time: 1733452559890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bee25455626498ea6de6660bcde821e
+run_name: honorable-seal-826
+run_uuid: 1bee25455626498ea6de6660bcde821e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733452556878
+status: 3
+tags: []
+user_id: isaacchavez

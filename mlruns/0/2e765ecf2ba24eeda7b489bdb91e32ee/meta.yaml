@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/isaacchavez/mlops_course/end-to-end-ds/datascience-project/mlruns/0/2e765ecf2ba24eeda7b489bdb91e32ee/artifacts
+end_time: 1733452654372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e765ecf2ba24eeda7b489bdb91e32ee
+run_name: worried-rat-931
+run_uuid: 2e765ecf2ba24eeda7b489bdb91e32ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733452651746
+status: 3
+tags: []
+user_id: isaacchavez

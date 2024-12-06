@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/isaacchavez/mlops_course/end-to-end-ds/datascience-project/mlruns/0/21b7054452474d7a86b7c4b675b0b79e/artifacts
+end_time: 1733452572545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21b7054452474d7a86b7c4b675b0b79e
+run_name: burly-stork-428
+run_uuid: 21b7054452474d7a86b7c4b675b0b79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733452569946
+status: 3
+tags: []
+user_id: isaacchavez
